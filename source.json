@@ -1,0 +1,29 @@
+{
+  "source_id": "main",
+  "source_name": "AppSync Main",
+  "groups": [
+    {
+      "group_id": "external",
+      "group_name": "External Apps",
+      "external_apps": [
+        {
+          "package_name": "com.tailscale.ipn",
+          "title": "Tailscale",
+          "short_description": "Zero-config mesh VPN",
+          "long_description": "Connect your devices into a secure private network (tailnet) with WireGuard-based mesh VPN — reach your NAS, Pi-hole and other services from anywhere.",
+          "supported_platforms": ["android_tv", "android_mobile"],
+          "install_kind": "play"
+        },
+        {
+          "package_name": "com.spotify.music",
+          "title": "Spotify",
+          "short_description": "Music and podcasts",
+          "long_description": "Stream millions of songs and podcasts and play them on the big screen.",
+          "supported_platforms": ["android_tv", "android_mobile"],
+          "install_kind": "play",
+          "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/512px-Spotify_logo_without_text.svg.png"
+        }
+      ]
+    }
+  ]
+}
