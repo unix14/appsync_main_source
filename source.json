@@ -22,6 +22,25 @@
           "supported_platforms": ["android_tv", "android_mobile"],
           "install_kind": "play",
           "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/512px-Spotify_logo_without_text.svg.png"
+        },
+        {
+          "package_name": "com.esaba.downloader",
+          "title": "Downloader",
+          "short_description": "Sideload apps on Android TV",
+          "long_description": "Downloader by AFTVnews — enter a URL or short code to download and install APKs directly on the TV. The classic first-install tool for sideloading everything else.",
+          "supported_platforms": ["android_tv"],
+          "install_kind": "play",
+          "icon_url": "https://play-lh.googleusercontent.com/_zuxP30plNbEBOOre6Q4rVwGQslOX6NCsefA8tPxJFsFt2XLO35yK2YVaPqmFl0oGVnO9FZCJ6b2lhrSk3a0KA=s512"
+        },
+        {
+          "package_name": "org.smarttube.stable",
+          "title": "SmartTube",
+          "short_description": "Ad-free YouTube for Android TV",
+          "long_description": "SmartTube (stable) — advanced YouTube client for Android TV: no ads, SponsorBlock, adjustable playback speed, 4K/HDR support. Installed straight from the project's GitHub releases; the download link always points at the newest stable build.",
+          "supported_platforms": ["android_tv"],
+          "install_kind": "url",
+          "apk_url": "https://github.com/yuliskov/SmartTubeNext/releases/download/latest/smarttube_stable.apk",
+          "icon_url": "https://raw.githubusercontent.com/yuliskov/SmartTube/master/images/app_icon.png"
         }
       ]
     }
