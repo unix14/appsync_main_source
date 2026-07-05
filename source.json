@@ -21,7 +21,7 @@
           "long_description": "Stream millions of songs and podcasts and play them on the big screen.",
           "supported_platforms": ["android_tv", "android_mobile"],
           "install_kind": "play",
-          "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/512px-Spotify_logo_without_text.svg.png"
+          "icon_url": "https://play-lh.googleusercontent.com/IzQgYCcnCFCD08GR-3bdtcT8xzOvrNkC84avGT5CwTX2VIqmTmKKJcP_Cd4JoBOdmCMlTndlOzV6hrthg2fOWA=s512"
         },
         {
           "package_name": "com.esaba.downloader",
