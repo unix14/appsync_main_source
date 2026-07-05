@@ -41,6 +41,30 @@
           "install_kind": "url",
           "apk_url": "https://github.com/yuliskov/SmartTubeNext/releases/download/latest/smarttube_stable.apk",
           "icon_url": "https://raw.githubusercontent.com/yuliskov/SmartTube/master/images/app_icon.png"
+        },
+        {
+          "package_name": "flar2.homebutton",
+          "title": "Button Mapper",
+          "short_description": "Remap your keys",
+          "long_description": "Remap hardware buttons on your phone or TV remote to launch any app, shortcut or custom action.",
+          "supported_platforms": ["android_tv", "android_mobile"],
+          "install_kind": "play"
+        },
+        {
+          "package_name": "com.alphainventor.filemanager",
+          "title": "File Manager+",
+          "short_description": "File explorer for phone, tablet & TV",
+          "long_description": "Browse local storage, NAS/SMB shares, FTP servers, and cloud accounts. Manage, copy, move, and compress files across all your storage locations.",
+          "supported_platforms": ["android_tv", "android_mobile"],
+          "install_kind": "play"
+        },
+        {
+          "package_name": "com.stremio.one",
+          "title": "Stremio",
+          "short_description": "Stream movies, series & live TV",
+          "long_description": "Watch and organize video content from different services — movies, series, live TV and video channels — aggregated by an addon system.",
+          "supported_platforms": ["android_tv", "android_mobile"],
+          "install_kind": "play"
         }
       ]
     }

@@ -8,16 +8,18 @@ public catalog every device sees.
 
 ## What's in it
 
-Right now: the two external apps every household wants installed alongside
-AppSync itself.
+| App            | Kind       | Platforms          |
+| -------------- | ---------- | ------------------ |
+| Tailscale      | Play Store | Android TV, Mobile |
+| Spotify        | Play Store | Android TV, Mobile |
+| Downloader     | Play Store | Android TV         |
+| SmartTube      | URL (APK)  | Android TV         |
+| Button Mapper  | Play Store | Android TV, Mobile |
+| File Manager+  | Play Store | Android TV, Mobile |
+| Stremio        | Play Store | Android TV, Mobile |
 
-| App       | Kind       | Platforms          |
-| --------- | ---------- | ------------------ |
-| Tailscale | Play Store | Android TV, Mobile |
-| Spotify   | Play Store | Android TV, Mobile |
-
-Both are `install_kind: play` — the AppSync client opens the Play Store to the
-package id rather than side-loading an APK.
+Apps with `install_kind: play` open the Play Store to the package id. Apps with
+`install_kind: url` are side-loaded from the APK URL in `apk_url`.
 
 ## How the Hub reads it
 
