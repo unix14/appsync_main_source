@@ -48,7 +48,8 @@
           "short_description": "Remap your keys",
           "long_description": "Remap hardware buttons on your phone or TV remote to launch any app, shortcut or custom action.",
           "supported_platforms": ["android_tv", "android_mobile"],
-          "install_kind": "play"
+          "install_kind": "play",
+          "icon_url": "https://play-lh.googleusercontent.com/6-EFWXOP2WDvgVhbFEwStgYXM7OcvfCLT2_NKo964zE44XBhp7afi-tMqmXYk9uvVVoHDb8ZVHwGhUd1wDkn=s512"
         },
         {
           "package_name": "com.alphainventor.filemanager",
@@ -56,7 +57,8 @@
           "short_description": "File explorer for phone, tablet & TV",
           "long_description": "Browse local storage, NAS/SMB shares, FTP servers, and cloud accounts. Manage, copy, move, and compress files across all your storage locations.",
           "supported_platforms": ["android_tv", "android_mobile"],
-          "install_kind": "play"
+          "install_kind": "play",
+          "icon_url": "https://play-lh.googleusercontent.com/ks-rS8x71PjjK3fRF6bqtkarpsczS6hiErvgmK2Y0uivOjYxZjPMoyZhagZiiM8Y5mu2pjyX_UwHP9OmmXRWGGQ=s512"
         },
         {
           "package_name": "com.stremio.one",
@@ -64,7 +66,8 @@
           "short_description": "Stream movies, series & live TV",
           "long_description": "Watch and organize video content from different services — movies, series, live TV and video channels — aggregated by an addon system.",
           "supported_platforms": ["android_tv", "android_mobile"],
-          "install_kind": "play"
+          "install_kind": "play",
+          "icon_url": "https://play-lh.googleusercontent.com/OvTwEXzvUbeyfqdXd1vZiTfbBOTdMAA6EWw5TV00PiSirn7C1iz__HVD6PfXCHkN9quH_XdoPwCIT3GhB1Ukmw=s512"
         }
       ]
     }
