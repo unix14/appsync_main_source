@@ -41,7 +41,8 @@
           "long_description": "SmartTube (stable) — advanced YouTube client for Android TV: no ads, SponsorBlock, adjustable playback speed, 4K/HDR support. Installed straight from the project's GitHub releases; the download link always points at the newest stable build.",
           "supported_platforms": ["android_tv"],
           "install_kind": "url",
-          "apk_url": "https://github.com/yuliskov/SmartTubeNext/releases/download/latest/smarttube_stable.apk",
+          "apk_url": "https://github.com/yuliskov/SmartTube/releases/download/32.03/SmartTube_beta_32.03_universal.apk",
+          "web_url": "https://github.com/yuliskov/SmartTube",
           "icon_url": "https://raw.githubusercontent.com/yuliskov/SmartTube/master/images/app_icon.png"
         },
         {
